@@ -4,4 +4,8 @@ public class A {
 	public A() {
 		System.out.println(" ");
 	}
+
+	public void B() {
+		System.out.println("Yes!");
+	}
 }
